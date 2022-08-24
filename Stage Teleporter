@@ -69,4 +69,4 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Wo
 wait(.7)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Checkpoints["34"].CFrame
 wait(.7)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").RainbowBlocks["RainbowBlocks"].CFrame
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-3963.89, 1636.87, -9565.45)
